@@ -9,7 +9,7 @@ const MyHobbies = () => {
         </Link>
       </div>
       <h4>My Hobbies</h4>
-      <ul>
+      <ol>
         <li>
           <ol>Playing Games</ol>
         </li>
@@ -19,7 +19,7 @@ const MyHobbies = () => {
         <li>
           <ol>Learning new skills</ol>
         </li>
-      </ul>
+      </ol>
     </>
   );
 };
